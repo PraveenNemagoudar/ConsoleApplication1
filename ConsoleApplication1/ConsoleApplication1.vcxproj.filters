@@ -21,5 +21,8 @@
     <ClCompile Include="commit_sync_push.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CommitANDpushe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
